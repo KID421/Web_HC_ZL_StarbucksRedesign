@@ -12,7 +12,7 @@ nav {
     /* gtc */
     grid-template-columns: 20% 70% 10%;
     /* bg */
-    background: #eee;
+    background: #f6f6f6;
     /* bs */
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
     padding: 20px 30px;
