@@ -40,3 +40,15 @@ nav {
     color: #226641;
     border: 5px #226641;
 }
+
+/* 商品類型 */
+/* 元素 1 > 元素 2 */
+/* 元素 1 裡面 第一層 的 元素 2 */
+#products > div {
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+#products .pic img {
+    width: 100%;
+}
