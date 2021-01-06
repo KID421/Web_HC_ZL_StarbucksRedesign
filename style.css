@@ -105,3 +105,13 @@ nav {
     background: #226641;
     color: #fff;
 }
+
+/* 門市資訊 */
+#info {
+    display: grid;
+    /* repeat(數量，寬度) */
+    /* fr 格子 */
+    /* 格子 / 數量 */
+    /* 1fr / 3 */
+    grid-template-columns: repeat(3, 1fr);
+}
