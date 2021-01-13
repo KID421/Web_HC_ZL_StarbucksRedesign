@@ -200,6 +200,19 @@ nav {
     padding: 10px 0 25px;
     line-height: 2;
 }
+/* 其他服務 */
+#service {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#service img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    /* border-radius: 50%; 寬高要相同 */
+    object-fit: cover;
+}
 
 /* 頁尾 */
 footer {
